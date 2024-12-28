@@ -1,0 +1,26 @@
+#h1 {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  font-size: ;
+  background: black;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0;
+  text-align: center;
+  font-family: sans-serif;
+  justify-content: center;
+}
+/* // img.style.width = "100px";
+// img.style.height = "100px";
+// img.style.borderRadius = "50%";
+// let box = document.querySelector(".box");
+// box.style.height = "500px";
+// box.style.width = "350px";
+// box.style.background = "yellow";
+// box.style.margin = "50px";
+
+// let text = document.querySelector("h1");
+// text.style.color = "white";
+// text.style.fontSize = "20px";
+// text.style.textAlign = "center"; */
